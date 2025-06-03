@@ -15,4 +15,6 @@ For the past 5 years our company has also incorporated the use of A.I. technique
 
 To know more about our services, click [here](Services.md)
 
+To know more about our bioinformatic research efforts, click [here](Research_Projects.md)
+
 
