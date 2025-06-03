@@ -13,7 +13,4 @@ This is the main page of my GitHub Pages site.
 
 Here’s some information about my project.
 
-```{r}
-# Example R code chunk
-summary(cars)
 
