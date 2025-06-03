@@ -1,7 +1,7 @@
 ---
 title: "Welcome to My Project"
 author: "Your Name"
-date: "`r Sys.Date()`"
+date: "2025-06-03"
 output: html_document
 ---
 
