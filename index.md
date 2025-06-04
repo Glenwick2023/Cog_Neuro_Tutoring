@@ -6,7 +6,7 @@ output: html_document
 ---
 
 # Cognitive Neuroscience Tutoring  
-<img src="drawing.jpg" alt="drawing" width="200"/>
+<img src="https://github.com/Glenwick2023/Cog_Neuro_Tutoring/blob/main/images/Logo.png" alt="CNT" width="200"/>
 ![alt text](https://github.com/Glenwick2023/Cog_Neuro_Tutoring/blob/main/images/Logo.png)
 
 ## About
