@@ -13,6 +13,7 @@ If you would like an appointment with a tutor from our network, please fill out 
 
 ## Previous Workshops
 1. [Programming Heatmaps in Python and R](https://www.instagram.com/cognitivetutoring2024/p/DJW9DarN6kN/)
+
 ![alt text](https://github.com/Glenwick2023/Cog_Neuro_Tutoring/blob/main/images/Prog_Heatmaps_Image.jpg)
 
 ## Future Workshops
