@@ -5,7 +5,7 @@ date: "2025-06-03"
 output: html_document
 ---
 
-# Cognitive Neuroscience Tutoring
+# Cognitive Neuroscience Tutoring  ![alt text](https://github.com/Glenwick2023/Cog_Neuro_Tutoring/blob/main/images/Logo.png)
 
 ## About
 
